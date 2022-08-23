@@ -1,6 +1,10 @@
 # Repositorio DIO - Santander Bootcamp Fullstack Developer
+https://web.dio.me/track/santander-bootcamp-fullstack-developer
 
-Repositório para salvar os códigos do BootCamp da DIO
+
+Repositório para salvar os códigos do BootCamp da DIO.
+Iniciado em 31/05/2022 e finalizado em 07/08/2022.
 
 
-Link Certificado: https://www.dio.me/certificate/DDAC7457
+Link Certificado Java: https://www.dio.me/certificate/3651182B
+Link Certificado Geral: https://www.dio.me/certificate/DDAC7457
